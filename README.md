@@ -1,5 +1,3 @@
-# task1_advanced
-News Topic Classifier Using BERT
 # 🔄 End-to-End ML Pipeline for Customer Churn Prediction
 
 A production-ready machine learning pipeline that predicts customer churn using the Telco Customer Churn dataset. This project demonstrates best practices for building reusable, scalable ML pipelines using Scikit-learn's Pipeline API with comprehensive preprocessing, model training, hyperparameter tuning, and model export functionality.
